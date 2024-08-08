@@ -9,6 +9,9 @@
 *.ilk
 *.pdb
 
+# Generated files
+*.txt
+
 # Precompiled Headers
 *.gch
 *.pch
